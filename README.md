@@ -1,4 +1,4 @@
-# Algoritmo de recomendación (sin IA)
+# yusbo-algoritmo
 
 Motor de recomendación por **probabilidad conjunta**, autónomo y sin dependencias
 externas. No usa IA, ni red, ni credenciales, ni modelos: sólo matemática y texto.
